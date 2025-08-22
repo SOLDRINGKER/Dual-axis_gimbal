@@ -1,0 +1,4 @@
+/home/roboter/Dual-axis_gimbal/example_cpp/build/CMakeFiles/haitai_motor_controller.dir
+/home/roboter/Dual-axis_gimbal/example_cpp/build/CMakeFiles/sine_plot_example.dir
+/home/roboter/Dual-axis_gimbal/example_cpp/build/CMakeFiles/edit_cache.dir
+/home/roboter/Dual-axis_gimbal/example_cpp/build/CMakeFiles/rebuild_cache.dir

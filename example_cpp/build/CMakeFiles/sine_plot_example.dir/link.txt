@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sine_plot_example.dir/src/example.cpp.o -o bin/sine_plot_example  libhaitai_motor_controller.a -lm 

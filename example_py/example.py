@@ -1,7 +1,7 @@
 import time
 import math
 import numpy as np
-from haitai_motor_py.haitai_motor_multi import HaitaiMotorController
+from haitai_motor_multi import HaitaiMotorController
 import matplotlib.pyplot as plt
 
 # 配置matplotlib
