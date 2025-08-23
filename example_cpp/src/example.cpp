@@ -190,8 +190,8 @@ int main(int argc, char* argv[]) {
         
         // 每个电机的独立PD控制参数 - 可以在这里修改
         std::map<std::string, MotorPDParams> pdParams = {
-            {"motor1", {1.2f, 0.03f}},   // KP=0.7, KD=0.05
-            {"motor2", {1.2f, 0.03f}}    // KP=0.7, KD=0.05
+            {"motor1", {6.0f, 0.03f}},   // KP=2.5, KD=0.05
+            {"motor2", {6.0f, 0.03f}}    // KP=2.5, KD=0.05
         };
         
         // 电机内部PI控制参数 - 可以在这里修改
